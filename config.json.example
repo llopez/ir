@@ -1,0 +1,13 @@
+{
+  "sta":{
+    "ssid":"",
+    "pwd":"",
+    "save":false,
+    "auto":false
+  },
+  "mqtt":{
+    "host":"192.168.0.40",
+    "port":1883,
+    "channel":"/device/"
+  }
+}
